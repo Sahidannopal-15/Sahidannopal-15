@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi I'm Muhammad Naufal Sahidan 👋
+---
+🚀 **Frontend Developer (React.js)**  
+💻 **Web Enthusiast**
+
+---
+
+### 😎 About Me
+💡 Building creative and responsive web interfaces.  
+🌱 Always learning new tech n improving my skills.
+
+---
+
+### 🧰 Tech Stack
+✅ **Languages:** JavaScript  
+✅ **Frameworks:** React.js, Tailwind CSS   
+✅ **Tools:** Git, VS Code
+
 
 <!--
 **Sahidannopal-15/Sahidannopal-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
