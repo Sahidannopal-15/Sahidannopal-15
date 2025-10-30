@@ -1,4 +1,4 @@
-# Hi I'm Muhammad Naufal Sahidan 👋
+# Hi I'm Naufal Sahidan 👋
 ---
 🚀 **Frontend Developer (React.js)**  
 💻 **Web Enthusiast**
@@ -7,7 +7,7 @@
 
 ### 😎 About Me
 💡 Building creative and responsive web interfaces.  
-🌱 Always learning new tech n improving my skills.
+⚙️ Always learning new tech n improving my skills.
 
 ---
 
