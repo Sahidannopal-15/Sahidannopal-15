@@ -4,6 +4,10 @@
 💻 **Web Enthusiast**
 
 ---
+### 🧠 Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahidannopal-15&theme=dracula&langs_count=8)
+
+---
 
 ### 😎 About Me
 💡 Building creative and responsive web interfaces.  
