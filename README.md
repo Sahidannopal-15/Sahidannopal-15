@@ -12,7 +12,7 @@
 
 ### 😎 About Me
 💡 Building creative and responsive web interfaces.  
-🔍 Interested in cyber security
+🔍 Interested in cyber security.
 ⚙️ Always learning new tech n improving my skills.
 
 ---
@@ -23,9 +23,9 @@
 ✅ **Tools:** Git, VS Code
 
 ### Cyber Security Learning and Practice
-🛡️ Areas: Digital Forensics (basic)
-🔍 Tools: ExifTool, HxD, HashCalc, Linux (fundamental)
-📚 Concepts: Hashing, Metadata Analysis, OSINT (basic)
+🛡️ **Areas:** Digital Forensics (basic)
+🔍 **Tools:** ExifTool, HxD, HashCalc, Linux (fundamental)
+📚 **Concepts:** Hashing, Metadata Analysis, OSINT (basic)
 
 <!--
 **Sahidannopal-15/Sahidannopal-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
