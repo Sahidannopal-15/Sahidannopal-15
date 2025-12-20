@@ -1,10 +1,10 @@
 # Hi I'm Naufal Sahidan 👋
 ---
-🚀 **Frontend Developer** 
+### 🚀 **Frontend Developer** 
 
-🔍 **Cyber Security Learner**
+### 🔍 **Cyber Security Learner**
 
-💻 **Web Enthusiast**
+### 💻 **Web Enthusiast**
 
 ---
 ### 🧠 Most used languages
